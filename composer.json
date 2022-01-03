@@ -1,0 +1,19 @@
+{
+    "name": "yasapurnama/phpshell-rotate",
+    "description": "PHP shell rotation",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yasapurnama\\PhpShellRotation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Purnama Yasa",
+            "email": "yasapurnama@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
