@@ -10,7 +10,7 @@ This package can easily determine which php shell function available to be execu
 
 ## Why?
 
-Mostly web hosting nowaday will disable various php shell function like `system(), exec(), shell_exec(), passthru()`. This package will help to find which php shell function that still exist then use it to execute shell command.
+Mostly web hosting nowadays will disable various php shell function like `system(), exec(), shell_exec(), passthru()`. This package will help to find which php shell function that still exist then use it to execute shell command.
 
 
 ## Installation
